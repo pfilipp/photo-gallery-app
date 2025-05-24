@@ -1,13 +1,13 @@
 {
-  "displayName": "My Electron App",
-  "name": "my-electron-app",
-  "description": "Your awesome app description",
-  "version": "0.0.0",
+  "displayName": "Photo Gallery",
+  "name": "photo-gallery-app",
+  "description": "Modern photo gallery Electron app with React, TypeScript, and Tailwind CSS",
+  "version": "1.0.0",
   "main": "./node_modules/.dev/main/index.js",
   "resources": "src/resources",
   "author": {
-    "name": "Dalton Menezes",
-    "email": "daltonmenezes@outlook.com"
+    "name": "pfilipp",
+    "email": "pfilipp@users.noreply.github.com"
   },
   "license": "MIT",
   "packageManager": "pnpm@10.0.0",
