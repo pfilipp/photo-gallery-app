@@ -1,0 +1,37 @@
+[
+  {
+    "filename": "sunset-beach.jpg",
+    "title": "Golden Hour at Sunset Beach",
+    "place": "Malibu, California",
+    "date": "2024-03-15",
+    "quote": "Every sunset brings the promise of a new dawn."
+  },
+  {
+    "filename": "mountain-lake.jpg",
+    "title": "Serene Mountain Lake",
+    "place": "Banff National Park, Canada",
+    "date": "2024-02-28",
+    "quote": "In the mountains, you find peace that the world cannot give."
+  },
+  {
+    "filename": "city-lights.jpg",
+    "title": "City Lights at Night",
+    "place": "Tokyo, Japan",
+    "date": "2024-01-10",
+    "quote": "The city never sleeps, and neither do dreams."
+  },
+  {
+    "filename": "forest-path.jpg",
+    "title": "Mystical Forest Path",
+    "place": "Black Forest, Germany",
+    "date": "2023-12-05",
+    "quote": "Not all those who wander are lost."
+  },
+  {
+    "filename": "ocean-waves.jpg",
+    "title": "Powerful Ocean Waves",
+    "place": "Big Sur, California",
+    "date": "2024-04-02",
+    "quote": "The ocean stirs the heart, inspires the imagination."
+  }
+]
